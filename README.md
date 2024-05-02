@@ -1,0 +1,2 @@
+# algorithem
+fuctorial calculation
